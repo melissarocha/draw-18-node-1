@@ -1,0 +1,20 @@
+{
+  "name": "clase1node",
+  "version": "1.0.0",
+  "description": "Prueba de la clase de DRAW.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fing",
+    "draw",
+    "is",
+    "uach"
+  ],
+  "author": "Melissa",
+  "license": "ISC",
+  "dependencies": {
+    "log4js": "^2.5.3"
+  }
+}
